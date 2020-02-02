@@ -1,0 +1,14 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.example.kelompok.MainActivity" >
+    <!--Experimental
+        <item android:id="@+id/Setting" android:title="Pengaturan" android:actionLayout="@layout/activity_setting"/>
+    -->
+    <item android:id="@+id/Help" android:actionLayout="@layout/activity_help" android:title="@string/title_activity_help"/>
+    <item android:id="@+id/About" android:actionLayout="@layout/activity_about" android:title="@string/title_activity_about">
+
+</item>
+    
+    
+
+</menu>

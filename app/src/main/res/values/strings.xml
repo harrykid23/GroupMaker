@@ -1,0 +1,19 @@
+<resources>
+    <string name="app_name">Group Maker</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_daftar">Daftar</string>
+    <string name="title_activity_file_chooser">FileChooser</string>
+    <string name="title_activity_about">Tentang</string>
+    <string name="title_activity_help">Bantuan</string>
+    <string name="title_section1">Section 1</string>
+    <string name="title_section2">Section 2</string>
+    <string name="title_section3">Section 3</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="action_example">Example action</string>
+    <string name="title_activity_setting">SettingActivity</string>
+    <string name="app_version">v3.0</string>
+    <string name="banner_ad_unit_id">ca-app-pub-3940256099942544/6300978111</string>
+    <string name="follow_text">Follow me</string>
+</resources>
